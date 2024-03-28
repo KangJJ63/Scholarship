@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243588806353",
+    "firebase_url": "https://janghack-67a74.firebaseio.com",
+    "project_id": "janghack-67a74",
+    "storage_bucket": "janghack-67a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243588806353:android:1c10530e1f70bff72977f0",
+        "android_client_info": {
+          "package_name": "out.example.scholarinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243588806353-huipptvdog95328pt1cr3ubiju984mt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzpeTE9emL1mEz-ATLSPH1fcnwaVmFFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243588806353-huipptvdog95328pt1cr3ubiju984mt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
